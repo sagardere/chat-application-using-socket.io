@@ -1,0 +1,29 @@
+{
+  "name": "chat-application-using-socket.io",
+  "version": "1.0.0",
+  "description": "node.js realtime framework server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagardere/chat-application-using-socket.io.git"
+  },
+  "keywords": [
+    "realtime",
+    "socket",
+    "io",
+    "events",
+    "websocket",
+    "chat",
+    "node"
+    "application"
+  ],
+  "author": "Sagar Dere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagardere/chat-application-using-socket.io/issues"
+  },
+  "homepage": "https://github.com/sagardere/chat-application-using-socket.io#readme"
+}
