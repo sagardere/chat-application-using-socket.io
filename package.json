@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/sagardere/chat-application-using-socket.io#readme",
   "dependencies": {
-    "express": "4.13.4"
+    "express": "4.13.4",
+    "socket.io": "^2.1.0"
   }
 }
