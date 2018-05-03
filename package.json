@@ -1,7 +1,7 @@
 {
   "name": "chat-application-using-socket.io",
   "version": "1.0.0",
-  "description": "node.js realtime framework server",
+  "description": "A simple chat application using socket.io",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
